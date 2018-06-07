@@ -1,0 +1,52 @@
+html {
+  height: 100%;
+  overflow-x: hidden;
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+
+  font: normal 14px/1.618em "Lato", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+
+.profile-header
+{
+	font-family: "Raleway", sans-serif;
+	font-size: 24px;
+}
+
+
+.u-push-down-50
+{
+	margin-top:50px;
+}
+
+.u-full-width
+{
+	width: 100%;
+}
+
+.u-height-auto
+{
+	height: auto;
+}
+
+.u-full-height
+{
+	height: 100%;
+}
+
+.u-width-auto
+{
+	width: auto;
+}
+
+.u-align-right
+{
+	text-align: right;
+}
